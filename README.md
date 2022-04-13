@@ -1,4 +1,4 @@
-# BikeShare Data Exploration Project - Data Analysis Professional Track
+# BikeShare Data Exploration Project - Data Analysis Professional Nanodegree Track
 
 ## Introduction
 This is the first project in udacity **Data Analysis Professional Track** which we study how to use python in data analysis.
